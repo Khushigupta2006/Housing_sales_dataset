@@ -66,19 +66,3 @@ To build a regression model that predicts house prices based on multiple propert
 - Residual Plot  
 
 These visualizations help in understanding feature relationships and evaluating model performance.
-
----
-
-## 🚀 Future Enhancements
-
-- Implement Ridge and Lasso Regression  
-- Perform hyperparameter tuning  
-- Apply feature selection techniques  
-- Deploy the model using Streamlit  
-
----
-
-## 👩‍💻 Author
-
-**Khushi Gupta**  
-Aspiring Data Scientist 🚀
